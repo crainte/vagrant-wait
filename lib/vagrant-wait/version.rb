@@ -1,5 +1,5 @@
 module VagrantPlugins
-  module Wait
-    VERSION = "0.0.3"
-  end
+    module Wait
+        VERSION = "0.0.5"
+    end
 end
